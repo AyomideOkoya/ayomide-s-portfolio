@@ -1,9 +1,11 @@
-# Hi! I am Ayomide
-**Data Analyst**
+# Data Analyst Portfolio
 
-A passionate data analyst skilled in SQL, Excel, Power BI, and Tableau. I transform complex datasets into meaningful insights. With hands-on experience in data-driven projects and a keen eye for detail, I craft compelling visualizations and solutions that drive decision-making. 
+## Hi! I am Ayomide
 
-As I build my professional portfolio, I am eager to collaborate with forward-thinking teams to tackle challenges, unlock opportunities, and create data-driven success stories
+## About
+I'm a skilled data analyst passionate about transforming complex datasets into actionable insights. I am Proficient in SQL, Excel, Power BI, and Tableau, and I love diving deep into data to uncover hidden patterns and trends.
+
+With a keen eye for detail and a focus on results, I've honed my skills in data-driven projects, delivering compelling visualizations and solutions that empower decision-making. I'm excited to collaborate with innovative teams to tackle challenges, identify opportunities, and drive business 
 
 ### Education 
 - Federal Polytechnic Ilaro    HND Banking and Finance
