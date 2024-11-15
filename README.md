@@ -2,10 +2,12 @@
 
 ## Hi! I am Ayomide
 
-## About
+### About
 I'm a skilled data analyst passionate about transforming complex datasets into actionable insights. I am Proficient in SQL, Excel, Power BI, and Tableau, and I love diving deep into data to uncover hidden patterns and trends.
 
 With a keen eye for detail and a focus on results, I've honed my skills in data-driven projects, delivering compelling visualizations and solutions that empower decision-making. I'm excited to collaborate with innovative teams to tackle challenges, identify opportunities, and drive business 
+
+## Table of Content
 
 ### Education 
 - Federal Polytechnic Ilaro    HND Banking and Finance
