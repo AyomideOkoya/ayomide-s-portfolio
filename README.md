@@ -1,5 +1,6 @@
 # Hi! I am Ayomide
 *Data Analyst for 5+ months*
+
 Okoya Ayomide is a passionate data analyst skilled in SQL, Excel, Power BI, and Tableau. I transforming complex datasets into meaningful insights. 
 
 
