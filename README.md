@@ -1,5 +1,5 @@
 # Hi! I am Ayomide
-**Data Analyst for 5+ months**
+**Data Analyst**
 
 A passionate data analyst skilled in SQL, Excel, Power BI, and Tableau. I transform complex datasets into meaningful insights. With hands-on experience in data-driven projects and a keen eye for detail, I craft compelling visualizations and solutions that drive decision-making. 
 
